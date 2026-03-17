@@ -1,0 +1,24 @@
+# Disable directory browsing
+Options -Indexes
+
+# Protect config files
+<FilesMatch "^\.ht|config\.php|database\.php|auth\.php">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
+
+# Prevent access to SQL files
+<FilesMatch "\.sql$">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
+
+# Error pages
+ErrorDocument 404 /404.php
+ErrorDocument 403 /403.php
+
+# PHP settings
+php_value upload_max_filesize 10M
+php_value post_max_size 10M
+php_value max_execution_time 300
+php_value max_input_time 300

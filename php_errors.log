@@ -1,0 +1,21 @@
+[29-Jan-2026 07:27:22 Europe/Berlin] === LOGIN ATTEMPT START ===
+[29-Jan-2026 07:27:22 Europe/Berlin] Email submitted: chisomoimfa@gmail.com
+[29-Jan-2026 07:27:22 Europe/Berlin] User found: chisomoimfa@gmail.com, Role: admin, Status: active
+[29-Jan-2026 07:27:22 Europe/Berlin] Password verified via password_verify for: chisomoimfa@gmail.com
+[29-Jan-2026 07:27:22 Europe/Berlin] ✅ PASSWORD VALID - Setting session for user: chisomoimfa@gmail.com
+[29-Jan-2026 07:27:22 Europe/Berlin] Session set successfully. User ID: 9, Role: admin
+[29-Jan-2026 07:27:22 Europe/Berlin] ❌ PDO Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_login' in 'field list'
+[29-Jan-2026 07:27:22 Europe/Berlin] === LOGIN ATTEMPT ENDED ===
+[29-Jan-2026 07:27:31 Europe/Berlin] DEBUG: User already logged in. User ID: 9
+[29-Jan-2026 07:27:31 Europe/Berlin] DEBUG: Redirecting to dashboard from session check
+[29-Jan-2026 07:31:19 Europe/Berlin] === LOGIN ATTEMPT START ===
+[29-Jan-2026 07:31:19 Europe/Berlin] Email submitted: chisomoimfa@gmail.com
+[29-Jan-2026 07:31:19 Europe/Berlin] User found: chisomoimfa@gmail.com, Role: admin, Status: active
+[29-Jan-2026 07:31:20 Europe/Berlin] Password verified via password_verify for: chisomoimfa@gmail.com
+[29-Jan-2026 07:31:20 Europe/Berlin] ✅ PASSWORD VALID - Setting session for user: chisomoimfa@gmail.com
+[29-Jan-2026 07:31:20 Europe/Berlin] Session set successfully. User ID: 9, Role: admin
+[29-Jan-2026 07:31:20 Europe/Berlin] Remember me cookie set for: chisomoimfa@gmail.com
+[29-Jan-2026 07:31:20 Europe/Berlin] ❌ PDO Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_login' in 'field list'
+[29-Jan-2026 07:31:20 Europe/Berlin] === LOGIN ATTEMPT ENDED ===
+[29-Jan-2026 07:31:25 Europe/Berlin] DEBUG: User already logged in. User ID: 9
+[29-Jan-2026 07:31:25 Europe/Berlin] DEBUG: Redirecting to dashboard from session check

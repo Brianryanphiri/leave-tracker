@@ -1,0 +1,8 @@
+[29-Jan-2026 06:25:39 Europe/Berlin] === LOGIN SCRIPT STARTED ===
+[29-Jan-2026 06:25:39 Europe/Berlin] Database config loaded successfully from: C:\xampp\htdocs\leave-tracker/config/database.php
+[29-Jan-2026 06:25:39 Europe/Berlin] User already logged in. User ID: 9, Role: admin
+[29-Jan-2026 06:25:39 Europe/Berlin] Redirecting logged-in user to dashboard
+[29-Jan-2026 06:27:59 Europe/Berlin] === LOGIN SCRIPT STARTED ===
+[29-Jan-2026 06:27:59 Europe/Berlin] Database config loaded successfully from: C:\xampp\htdocs\leave-tracker/config/database.php
+[29-Jan-2026 06:27:59 Europe/Berlin] Final state - Error: , Success: , Email: 
+[29-Jan-2026 06:27:59 Europe/Berlin] === LOGIN SCRIPT ENDING ===
